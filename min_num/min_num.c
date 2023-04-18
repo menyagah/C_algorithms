@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int find_min(int array[], int length);
+#include "main.h"
 
 int main(void)
 {
